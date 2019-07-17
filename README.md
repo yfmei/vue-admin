@@ -1,4 +1,5 @@
 # admin
+admin base vue3.0
 
 ## Project setup
 ```
